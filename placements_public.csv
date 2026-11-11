@@ -1,0 +1,708 @@
+# Public copy of Stove_Placement_Tracker_2026-11-10.xlsx (saved 10 Nov 2026); participant names, contact details and product descriptions removed
+Product,Model,Stove ID,Sensor ID,Participant Name,Location,Status,Customer Type,Study Type,Placement Date,Tracker rows
+Charcoal,Ecoa Char NCW,,,,Hilton-Ruiru,Active,,,2023-05-20,1
+Charcoal,Ecoa Char NCW,,10766,,Wataalam-Ruiru,Active,,,2023-05-20,1
+Charcoal,Ecoa Char NCW,,10790,,Hilton-Ruiru,Active,,,2023-05-20,1
+Charcoal,Ecoa Char NCW,,10780,,Hilton-Ruiru,Active,,,2023-05-20,1
+Charcoal,Ecoa Char NCW,,10780,,Hilton-Ruiru,Active,,,2023-05-20,1
+Charcoal,Ecoa Char NCW,,10714,,Hilton-Ruiru,Active,,,2023-05-20,1
+Charcoal,Ecoa Char plus,,,,Mwihoko (Estrac academy),Active,,,2023-10-27,1
+Charcoal,Ecoa Char plus,,,,Nairobi ( Satellite shopping center),Active,,,2023-10-27,1
+Charcoal,Ecoa Char plus,BMK-000-1137,5859,,Juja ( Nyacaba),Active,,Sensors/durability,2023-10-27,2
+Charcoal,Ecoa Char plus,BMK-000-1138,5828,,Siaya (bondo-Nyamira)(Nyamira girls),Active,,,2023-11-21,2
+Charcoal,Ecoa Char plus,BMK-000-1140,5844,,Nakuru (Pondamali),Active,,,2023-11-21,2
+Charcoal,Ecoa Char plus,BMK-000-1127,5409,,Mombasa (Miritini),Active,,,2023-11-25,2
+Charcoal,Ecoa Char plus,,,,Kericho (Taita towet secondary school),Active,,,2023-12-04,1
+Charcoal,Jikokoa Pro(MCS),F9YSZC,5441,,Outside BPL-Burn Manufacturing,Active,,,2023-12-18,1
+Charcoal,Jikokoa Pro(MCS),F9YRU2,5449,,Outside BPL-Burn Manufacturing,Active,,,2023-12-18,1
+Charcoal,Ecoa Char plus,BMK-000-1124,8185,,Makueni ( Mbooni),Active,,,2023-12-20,2
+Charcoal,Ecoa Char plus,BMK-000-1125,5965,,Mumias (Nyapwaka),Active,,,2023-12-20,2
+Charcoal,Ecoa Char plus,BMK-000-1135,5984,,Mombasa (Miritini),Active,,,2023-12-27,2
+Charcoal,Ecoa Char,BMK-000-1289,9459,,Tumba market- Machakos,Active,,,2024-03-30,3
+Charcoal,Ecoa Char,BMK-000-1179,9447,,Tumba market- Machakos,Active,,,2024-03-30,3
+Charcoal,Ecoa Char,BMK-000-1175,5821,,Tumba market- Machakos,Active,,,2024-03-30,3
+Charcoal,Ecoa Char,BMK-000-1166,9172,,Tumba market- Machakos,Active,,,2024-03-30,3
+Charcoal,Ecoa Char,BMK-000-1221,9453,,Tumba market- Machakos,Active,,,2024-03-30,3
+Charcoal,Ecoa Char,BMK-000-1292,5932,,Tumba market- Machakos,Active,,,2024-03-30,3
+Charcoal,Ecoa Char,BMK-000-1288,9392,,Tumba market- Machakos,Active,,,2024-03-30,3
+Charcoal,Ecoa Char,BMK-000-1173,5339,,Tumba market- Machakos,Active,,,2024-03-30,3
+Charcoal,Ecoa Char,BMK-000-1174,5351,,Tumba market- Machakos,Active,,,2024-03-30,3
+Charcoal,Ecoa Char,BMK -000- 1223,9526,,Tumba market- Machakos,Active,,,2024-03-30,3
+Charcoal,Ecoa Char,BMK-000-1180,10373,,Masaku-Ruiru,Active,House hold,Usability and durabilty,2024-04-19,3
+Charcoal,Ecoa Char,BMK-000-1189,10428,,Gitaa Mbaya-Ruiru,Active,House hold,Usability and durabilty,2024-04-19,3
+Charcoal,Ecoa Char,BMK-000-1193,10902,,Gitaa Mbaya-Ruiru,Active,House hold,Usability and durabilty,2024-04-19,3
+Charcoal,Ecoa Char,BMK-000-1186,10815,,Gitaa Mbaya-Ruiru,Active,House hold,Usability and durabilty,2024-04-19,3
+Charcoal,Ecoa Char,BMK-000-1187,10960,,Gitaa Mbaya-Ruiru,Active,House hold,Usability and durabilty,2024-04-19,3
+Charcoal,Ecoa Char,BMK-000-1181,5461.0,,Gitaa Mbaya-Ruiru,Active,House hold,Usability and durabilty,2024-04-19,4
+Charcoal,Ecoa Char,BMK-000-1185,10883,,Gitaa Mbaya-Ruiru,Active,House hold,Usability and durabilty,2024-04-19,3
+Charcoal,Ecoa Char,BMK-000-1188,10439,,Masaku-Ruiru,Active,House hold,Usability and durabilty,2024-04-19,3
+Charcoal,Ecoa Char NCW,BMK-000-1191,10508,,Gitaa Mbaya-Ruiru,Active,House hold,Usability and durabilty,2024-04-19,3
+Charcoal,Ecoa Char,BMK-000-1321,10364,,Rainbow Booster,Active,House hold,Usability and durabilty,2024-11-05,2
+Charcoal,Ecoa Char,BMK-000-1190,5377,,Rainbow Booster,Active,House hold,Usability and durabilty,2024-11-05,2
+Charcoal,Ecoa Char,BMK-000-1183,5513,,Along Bishop Road Rainbow,Active,House hold,Usability and durabilty,2024-11-05,2
+Charcoal,Ecoa Char,BMK-000-1709,11868,,Along Bishop Road Rainbow,Active,House hold,"Handle grip testing, usability, durability",2024-11-05,2
+Charcoal,Ecoa Char,BMK-000-1705,12045,,Rainbow Booster_Commercial,Active,Commercial,"Handle grip testing, usability, durability",2024-11-05,2
+Charcoal,Ecoa Char,BMK-000-1339,10360,,Along Bishop Road Rainbow,Active,House hold,Usability and durabilty,2024-11-05,2
+Charcoal,Ecoa Char,BMK-000-1335,10437,,Rainbow Booster,Active,House hold,Usability and durabilty,2024-11-05,2
+Charcoal,Ecoa Char,BMK-000-1332,10484,,Along Bishop Road Rainbow,Active,House hold,Usability and durabilty,2024-11-05,2
+Charcoal,Ecoa Char,BMK-000-1365,10423,,Rainbow Booster,Active,House hold,Usability and durabilty,2024-11-05,2
+Charcoal,Ecoa Char,BMK--000-1324,10399,,Rainbow Booster,Active,House hold,Usability and durabilty,2024-11-05,2
+Charcoal,Ecoa Char,BMK-000-1712,11897,,Rainbow Booster-Commercial,Active,Commercial,"Handle grip testing, usability, durability",2024-11-05,2
+Charcoal,Ecoa Char,BMK-000-1702,12074,,Rainbow Booster,Active,House hold,"Handle grip testing, usability, durability",2024-11-05,2
+Charcoal,Ecoa Char,BMK-000-1710,11948,,Rainbow Booster,Active,House hold,Usability and durabilty,2024-11-12,2
+Charcoal,Ecoa Char,BMK-000-1326,10537,,Rainbow Booster,Active,House hold,"Handle grip testing, usability, durability",2024-11-12,2
+Charcoal,Ecoa Char,BMK-000-1703,12023,,Rainbow,Active,House hold,Usability and durabilty,2024-11-12,2
+Charcoal,Ecoa Char,BMK-000-1707,12096,,Rainbow-Commercial,Active,Commercial,Usability and durabilty,2024-11-12,2
+Charcoal,Ecoa Char,BMK-000-1704,12093,,Rainbow-Commercial,Active,Commercial,"Handle grip testing, usability, durability",2024-11-12,2
+Charcoal,Ecoa Char,BMK-000-1701,11776,,Along Bishop Road Rainbow,Active,House hold,"Handle grip testing, usability, durability",2024-11-12,2
+Charcoal,Ecoa Char,BMK-000-1716,12048,,Along Bishop Road Rainbow,Active,House hold,"Handle grip testing, usability, durability",2024-11-12,2
+Charcoal,Ecoa Char,BMK-000-1368,10540,,Rainbow Booster,Active,House hold,Usability and durabilty,2024-11-12,2
+Charcoal,Ecoa Char,BMK-000-1378,10539,,Rainbow,Active,House hold,Usability and durabilty,2024-11-12,2
+Charcoal,Ecoa Char,BMK-000-1377,10506,,Rainbow,Active,House hold,Usability and durabilty,2024-11-12,2
+Charcoal,Ecoa Char MMJ,BMK-000-1717,11905,,Rainbow-Commercial,Active,Commercial,"Handle grip testing, usability, durability",2024-11-12,2
+Charcoal,Ecoa Char,BMK-000-1706,11911,,Adjuscent to St. Francis Catholic Church near Ruiru Market_Commercial,Active,Commercial,"Handle grip testing, usability, durability",2024-11-12,2
+Charcoal,Ecoa Char,BMK-000-1708,11872,,Kimbo Matangi_Commercial,Active,House hold,"Handle grip testing, usability, durability",2024-11-12,2
+Charcoal,Ecoa Char,BMK-000-1718,12024,,Thika Makongeni Phase 5-Commercial,Active,Commercial,"Handle grip testing, usability, durability",2024-11-15,2
+Charcoal,Ecoa Char,BMK-000-1331,10440,,Thika Makongeni Phase 5,Active,House hold,Usability and durabilty,2024-11-15,2
+Charcoal,Ecoa Char,BMK-000-1374,10379,,Thika Makongeni Phase 5,Active,House hold,Usability and durabilty,2024-11-15,2
+Charcoal,Ecoa Char,BMK-000-1711,11849,,Thika Makongeni Phase 11,Active,House hold,"Handle grip testing, usability, durability",2024-11-15,2
+Charcoal,Ecoa Char,BMK-000-1329,10421,,Thika Makongeni Phase 5-Commercial,Active,Commercial,Usability and durabilty,2024-11-15,2
+Charcoal,Ecoa Char,BMK-000-1330,10436,,Thika Makongeni Phase 5,Active,House hold,Usability and durabilty,2024-11-15,2
+Charcoal,Ecoa Char,BMK-000-1715,11935,,Thika Makongeni Phase 9,Active,House hold,"Handle grip testing, usability, durability",2024-11-15,2
+Charcoal,Ecoa Char MMJ,BMK-000-1714,11900,,Gwa Kairu-Commercial,Active,Commercial,"Handle grip testing, usability, durability",2024-11-19,2
+Charcoal,Ecoa Char,BMK-000-1357,10376,,Gwa Kairu-,Active,House hold,Usability and durabilty,2024-11-19,2
+Charcoal,Ecoa Char,BMK-000-1719,12025,,Gwa Kairu-Commercial,Active,Commercial,"Handle grip testing, usability, durability",2024-11-19,2
+Charcoal,Ecoa Char,BMK-000-1328,10390,,Gwa Kairu,Active,House hold,Usability and durabilty,2024-11-19,2
+Charcoal,Ecoa Char,BMK-000-1713,12061,,Gwa Kairu-Commercial,Active,Commercial,"Handle grip testing, usability, durability",2024-11-19,2
+Charcoal,Ecoa Char,,,,Gitambaya,Active,,,2025-02-21,1
+Charcoal,Ecoa Char,,,,Mugutha,Active,,,2025-02-21,1
+Charcoal,Ecoa Char,,,,Mugutha,Active,,,2025-02-21,1
+Charcoal,Ecoa Char,,,,Matopeni Ruiru,Active,,,2025-02-21,1
+Charcoal,Ecoa Char,,,,Mugutha,Active,,,2025-02-21,1
+Charcoal,Ecoa Char,,,,,Active,,,2025-02-21,1
+Charcoal,Ecoa Char,,,,Githurai mwihoko road,Active,,,2025-02-21,1
+Charcoal,Ecoa Char,,,,,Active,,,2025-02-21,1
+Charcoal,Ecoa Char,,,,Matopeni,Active,,,2025-02-21,1
+Charcoal,Ecoa Char,,,,Gitambaya,Active,,,2025-02-21,1
+Charcoal,Ecoa Char,BMK-000-2102,ICF9,,Mugutha,Active,,,2025-04-24,1
+Charcoal,Ecoa Char,BMK-000-2011,CFAF,,Mugutha Post,Active,,,2025-04-24,1
+Charcoal,Ecoa Char,BMK-000-1985,5375,,Mugutha,Active,,,2025-04-24,1
+Charcoal,Ecoa Char,BMK-000-1970,2C11,,Mugutha,Active,,,2025-04-24,1
+Charcoal,Ecoa Char,,,,,Active,,,2025-04-24,1
+Charcoal,Ecoa Char,BMK-000-1992,AEEO,,Gitambaya,Active,,,2025-04-24,1
+Charcoal,Ecoa Char,BMK-000-2106,B4OF,,Gitambaya,Active,,,2025-04-24,1
+Charcoal,Ecoa Char,BMK-000-2101,DE04,,Gitambaya,Active,,,2025-04-24,1
+Charcoal,Ecoa Char,BMK-000-2100,OABO,,Matopeni,Active,,,2025-04-24,1
+Charcoal,Ecoa Char,BMK-000-1997,A229,,Matopeni Ruiru,Active,,,2025-04-24,1
+Charcoal,Ecoa Char,BMK-000-1962,,,Gikambura,Active,,,2025-05-19,1
+Charcoal,Ecoa Char,BMK-000-2104,,,Gikambura,Active,,,2025-05-19,1
+Charcoal,Ecoa Char,BMK-000-1999,,,Gikambura,Active,,,2025-05-19,1
+Charcoal,Ecoa Char,BMK-000-2108,,,Gikambura,Active,,,2025-05-26,1
+Charcoal,Ecoa Char,BMK-000-1974,,,Gikambura,Active,,,2025-05-26,1
+Charcoal,Ecoa Char,BMK-000-1993,,,Gikambura,Active,,,2025-05-26,1
+Charcoal,Ecoa Char,BMK-000-2015,,,Gikambura,Active,,,2025-05-26,1
+Charcoal,Ecoa Char,BMK-000-1998,,,Gikambura,Active,,,2025-05-26,1
+Charcoal,Ecoa Char,BMK-000-1969,,,Gikambura,Active,,,2025-05-26,1
+Charcoal,Ecoa Char,BMK-000-3125,Dmrv- 9467,,Ruiru Kitambaya-near Disciple school,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3164,Dmrv_ 645,,Ruiru Kitambaya,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3126,Dmrv_1609,,Ruiru Kitambaya,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3124,Dmrv_1407,,Ruiru Kitambaya,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3123,Dmrv_1281,,Ruiru Kitambaya-near Disciple school,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3127,Dmrv_1089,,Ruiru Kitambaya,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3121,Dmrv_559,,Ruiru Kitambaya-near Disciple school,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3162,Dmrv_357,,Ruiru Kitambaya-near Disciple school,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3163,Dmrv_976,,Ruiru Kitambaya,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3130,Dmrv_819,,Ruiru Rainbow Deliverance church,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3119,Dmrv_1205,,Ruiru Rainbow Deliverance church,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3120,Dmrv_1462,,Ruiru Garrage,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3117,Dmrv_1671,,Ruiru Garrage,Active,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3116,Dmrv_550,,Ruiru kimbo opp Spur mall,Unknown,,,2026-05-07,1
+Charcoal,Ecoa Char,BMK-000-3118,Dmrv_1048,,Ruiru Kitambaya-near Disciple school,Active,,,2026-05-07,1
+Charcoal,Ecoa Char plus,BMK-000-1132,5853,,Njoro (kiwanja ya ndege),Failed,,,2023-11-21,2
+Charcoal,MMJ,BMK-000-1176,5834,,Wataalam,Active,,,,1
+Charcoal,Jikokoa-G3.5,A2YQ6A,,,Ruiru,Running,,,2022-02-03,1
+Charcoal,Jikokoa-G3.5,B2Y87U,,,Ruiru,Running,,,2022-02-03,1
+Charcoal,Jikokoa-G3.5,B2Y8HK,,,Ruiru,Running,,,2022-02-03,1
+Charcoal,Jikokoa-G3.5,A2YCS8,,,Ruiru,Running,,,2022-02-03,1
+Charcoal,Jikokoa-G3.5,A2YAEZ,,,Ruiru,Running,,,2022-02-03,1
+Charcoal,MMJ-NCW,,10780,,Ruiru-next to silent bar,Active,House hold,Usability and durabilty,2023-05-20,1
+Charcoal,MMJ-NCW,,10714,,Ruiru-next to silent bar,Active,House hold,Usability and durabilty,2023-05-20,1
+Charcoal,MMJ-NCW,,10790,,Ruiru-next to silent bar,Travelled,House hold,Usability and durabilty,2023-05-20,1
+Charcoal,MMJ-NCW,,10766,,Ruiru-wataalam gate mbili,Unknown,Commercial,Usability and durabilty,2023-05-20,1
+Charcoal,MMJ-NCW,,,,Hilton ruiru,Unknown,House hold,Usability and durabilty,2023-05-20,1
+Charcoal,MMJ-NCW,,,,Hilton ruiru,Active,House hold,Usability and durabilty,2023-05-20,1
+Charcoal,Classic stove,,,,Wataalam,Active,,Usability and durabilty,2023-08-11,1
+Charcoal,Classic stove,,,,Wataalam,Active,,Durability,2023-08-11,1
+Charcoal,Classic stove,,,,Wataalam,Not Placed,,Durability,,1
+Charcoal,Classic stove,,,,Wataalam,Active,,Durability,2023-09-11,1
+Charcoal,Classic stove,,,,Wataalam-Githunguri high school,Active,,Durability,,1
+Charcoal,Classic stove,,,,Wataalam,,,Durability,2023-12-11,1
+Charcoal,Classic stove,,,,Wataalam,Active,,Durability,2023-09-11,1
+Charcoal,MMJ stove,,,,Wataalam,Done,,Durability,,1
+Charcoal,MMJ stove,,,,Wataalam,Done,,Durability,,1
+Charcoal,Xtra stove,,,,Wataalam,Active,,Durability,,1
+Charcoal,Xtra stove,,,,Wataalam,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Wataalam,Active,,Durability,2023-08-11,1
+Charcoal,Xtra stove,,,,Ruiru- Wataalam,Active,,Durability,2023-08-11,1
+Charcoal,Xtra stove,,,,Ruiru- Wataalam,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Ruiru- Wataalam,Unknown,,Durability,,1
+Charcoal,MMJ stove,,,,Gachororo,Not Placed,,Durability,,1
+Charcoal,MMJ stove,,,,Juja farm,Anytime,,Durability,,1
+Charcoal,MMJ stove,,,,Gachororo,Anytime,,Durability,,1
+Charcoal,MMJ stove,,,,Gachororo,Saturday,,Durability,,1
+Charcoal,MMJ stove,,,,Gachororo,To call back,,Durability,,1
+Charcoal,MMJ stove,,,,Gachororo,Not Placed,,Durability,,1
+Charcoal,Classic stove,,,,Gachororo,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Gachororo,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Gachororo,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Gachororo,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Gachororo,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Thika- Kiganjo,Unknown,,Durability,,1
+Charcoal,MMJ stove,,,,Thika- Kiganjo,Anytime,,Durability,,1
+Charcoal,MMJ stove,,,,Thika- Kiganjo,Anytime,,Durability,,1
+Charcoal,MMJ stove,,,,Thika- Kiganjo,Saturday,,Durability,,1
+Charcoal,MMJ stove,,,,Thika- Kiganjo,Thursday,,Durability,,1
+Charcoal,MMJ stove,,,,Ikinu,Unknown,,Durability,,1
+Charcoal,MMJ stove,,,,Ikinu,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Ikinu,Unknown,,Durability,,1
+Charcoal,MMJ stove,,,,Thika- Kimunye,Not around,,Durability,,1
+Charcoal,MMJ stove,,,,Thika- Kimunye,Friday,,Durability,,1
+Charcoal,MMJ stove,,,,Thika- Kimunye,Saturday,,Durability,,1
+Charcoal,Xtra stove,,,,Thika- Kimunye,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Thika- Kimunye,Unknown,,Durability,,1
+Charcoal,MMJ stove,,,,Gatundu,Anytime,,Durability,,1
+Charcoal,MMJ stove,,,,Gatundu,Picked for repair,,Durability,,1
+Charcoal,MMJ stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,MMJ stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,MMJ stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,MMJ stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,Classic stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,Xtra stove,,,,Gatundu,Unknown,,Durability,,1
+Charcoal,Jikokoa Xtra,,,,,Active,,KPT,,1
+Charcoal,Jikokoa Xtra,,,,,Active,,KPT,,1
+Charcoal,Jikokoa Xtra,,,,,Active,,KPT,,1
+Charcoal,Jikokoa Xtra,,,,,Active,,KPT,,1
+Charcoal,Jikokoa Xtra,,,,,Active,,KPT,,1
+Charcoal,Jikokoa Xtra,,,,,Active,,KPT,,1
+Charcoal,Jikokoa Xtra,,,,,Active,,KPT,,1
+Charcoal,Jikokoa Xtra,,,,,Active,,KPT,,1
+Charcoal,Jikokoa Xtra,,,,,Active,,KPT,,1
+Charcoal,Jikokoa Xtra,,,,,Active,,KPT,,1
+Charcoal,KCJ,,,,,Active,,KPT,,1
+Charcoal,KCJ,,,,,Active,,KPT,,1
+Charcoal,KCJ,,,,,Active,,KPT,,1
+Charcoal,KCJ,,,,,Active,,KPT,,1
+Charcoal,KCJ,,,,,Active,,KPT,,1
+Charcoal,KCJ,,,,,Active,,KPT,,1
+Charcoal,KCJ,,,,,Active,,KPT,,1
+Charcoal,KCJ,,,,,Active,,KPT,,1
+Charcoal,KCJ,,,,,Active,,KPT,,1
+Charcoal,KCJ,,,,,Active,,KPT,,1
+Charcoal,MMX,,,,,Active,,KPT,,1
+Charcoal,MMX,,,,Wedneday,Active,,KPT,,1
+Charcoal,MMX,,,,Unavailable on call,Active,,KPT,,1
+Charcoal,MMX,,,,Tueday,Active,,KPT,,1
+Charcoal,MMX,,,,Unavailable,Active,,KPT,,1
+Charcoal,MMX,,,,Unreachable,Active,,KPT,,1
+Charcoal,MMX,,,,Any day,Active,,KPT,,1
+Charcoal,MMX,,,,Any day,Active,,KPT,,1
+Charcoal,MMX,,,,Any day,Active,,KPT,,1
+Charcoal,MMX,,,,Any day,Active,,KPT,,1
+Charcoal,MMX,,,,Any day,Active,,KPT,,1
+Charcoal,MMX,,,,Any day,Active,,KPT,,1
+Charcoal,MMX,,,,Stove stolen,Active,,KPT,,1
+Charcoal,MMX,,,,,Active,,KPT,,1
+Charcoal,MMX,,,,,Active,,KPT,,1
+Charcoal,MMX,,,,Wedneday,Active,,KPT,,1
+Charcoal,MMX,,,,Wedneday,Active,,KPT,,1
+Charcoal,MMX,,,,Wedneday,Active,,KPT,,1
+Charcoal,MMX,,,,Wedneday,Active,,KPT,,1
+Charcoal,MMX,,,,Unavailable on call,Active,,KPT,,1
+Charcoal,MMX Low Cost,,,,Mwihoko (Estrac academy),Unknown,,,2023-10-27,1
+Charcoal,MMX Low Cost,,,,Nairobi ( Satellite shopping center),Unknown,,,2023-10-27,1
+Charcoal,MMX Low Cost,,,,Kericho (Taita towet secondary school),Unknown,,,2023-12-04,1
+Charcoal,Not recorded,,,,Ruiru,Unknown,,,,1
+Charcoal,Not recorded,,,,Wataalamu,Unknown,,,,1
+Charcoal,Not recorded,,,,Wataalam,Unknown,,,,1
+Charcoal,Not recorded,,,,Kamae,Unknown,,,,1
+Charcoal,Not recorded,,,,Ikiinu,Unknown,,,,1
+Charcoal,Not recorded,,,,Ikiinu,Unknown,,,,1
+Charcoal,Not recorded,,,,Ikiinu,Unknown,,,,1
+Charcoal,Not recorded,,,,Wataalamu,Unknown,,,,1
+Charcoal,Not recorded,,,,Gitothua,Unknown,,,,1
+Charcoal,Not recorded,,,,"Sabasaba Muranga""",Unknown,,,,1
+Charcoal,Not recorded,,,,Kenol,Unknown,,,,1
+Charcoal,Not recorded,,,,Mukurwe,Unknown,,,,1
+Charcoal,Not recorded,,,,Bombolulu,Unknown,,,,1
+Charcoal,Not recorded,,,,Bombolulu,Unknown,,,,1
+Charcoal,MMJ,BMK- 000-937,,,Magenka kibogwa,Active,,,,2
+Charcoal,Not recorded,,,,Kwa bullo bombolulu,Unknown,,,,1
+Charcoal,MMX,,,,Githunguri,Active,,Usability,,1
+Charcoal,MMX,,,,Juja,Active,,Usability,,1
+Charcoal,MMX,,,,Ruiru,Active,,Usability,,1
+Charcoal,MMX,,,,Thika,Active,,Usability,,1
+Charcoal,Jikokoa MMJ,,,,Ruiru,Active,,Durability,2023-03-20,1
+Charcoal,Jijokoa MMX,,,,Ruiru,Active,,Durability,2023-03-20,1
+Charcoal,Jikokoa Pro,,,,Ruiru,Active,,Durability,,1
+Charcoal,Jikokoa Pro(MCS),BMK-000-1256,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Pro(MCS),,,,Outside BPL-Burn Manufacturing,Active,,Usability,,1
+Charcoal,Jikokoa Pro(MCS),,5583.0,,Outside BPL-Burn Manufacturing,Active,,Usability,,1
+Charcoal,Jikokoa Pro(MCS),BMK-000-1266,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Pro(MCS),BMK-000-1253,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Pro(MCS),BMK-000-1265,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Pro(MCS),BMK-000-1261,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Pro(MCS),BMK-000-1258,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Pro(MCS),BMK-000-1263,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Pro(MCS),BMK-000-1262,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Pro(MCS),BMK-000-1264,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Pro(MCS),F9YXXN,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Pro(MCS),BMK-000-1270,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Pro(MCS),BMK-000-1254,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Pro(MCS),BMK-000-1269,,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-02-20,1
+Charcoal,Jikokoa Xtra,,,,,Active,,KPT,,1
+Charcoal,MMJ-NCW,,4311,,Ruiru,Active,,Usability and durabilty,2023-05-20,1
+Charcoal,MMJ-NCW,,4307,,Ruiru,Active,,Usability and durabilty,2023-05-20,1
+Charcoal,MMJ-NCW,,4303,,Ruiru,Active,,Usability and durabilty,2023-05-20,1
+Charcoal,MMJ-NCW,,,,Ruiru,Active,,Usability and durabilty,2023-05-20,1
+Charcoal,MMJ-NCW,,,,Hilton ruiru,Active,,Usability and durabilty,2023-05-20,1
+Charcoal,MMJ-NCW,,,,Hilton ruiru,Active,,Usability and durabilty,2023-05-20,1
+Charcoal,MMJ-NCW,,,,Gatundu,Active,,Usability and durabilty,,1
+Charcoal,MMJ,,,,Ruiru,Active,,,,1
+Charcoal,MMJ,,,,Wataalamu,Active,,,,1
+Charcoal,MMJ,,,,Wataalam,Active,,,,1
+Charcoal,MMJ,,,,Kamae,Active,,,,1
+Charcoal,MMJ,,,,Ikiinu,Active,,,,1
+Charcoal,MMJ,,,,Ikiinu,Active,,,,1
+Charcoal,MMJ,,,,Ikiinu,Active,,,,1
+Charcoal,MMJ,,,,Wataalamu,Active,,,,1
+Charcoal,MMJ,,,,Gitothua,Active,,,,1
+Charcoal,MMJ,,,,"Sabasaba Muranga""",Active,,,,1
+Charcoal,MMJ,,,,Kenol,Active,,,,1
+Charcoal,MMJ,,,,Mukurwe,Active,,,,1
+Charcoal,MMJ,,,,Bombolulu,Active,,,,1
+Charcoal,MMJ,,,,Bombolulu,Active,,,,1
+Charcoal,MMJ,,,,Kwa bullo bombolulu,Active,,,,1
+Charcoal,Jikokoa Xtra-G4,,,,Ruiru,Running,,,2022-02-03,1
+Charcoal,Jikokoa Xtra-G4,,,,Ruiru,Running,,,2022-02-03,1
+Charcoal,Jikokoa Xtra-G4,,,,Ruiru,Running,,,2022-02-03,1
+Charcoal,Jikokoa Xtra-G4,,,,Ruiru,Running,,,2022-02-03,1
+Charcoal,MMX,BMK-000-3261,03262-020682,,Nakuru (Pondamali),Active,,,2026-10-19,1
+Charcoal,MMJ,,,,Not recorded,Unknown,,,,1
+Charcoal,MMJ,,,,Not recorded,Unknown,,,,1
+Charcoal,Ecoa Char Low Cost,,,,Manza,Unknown,,,2025-03-12,1
+Charcoal,Ecoa Char (model not recorded),,,,Mugutha near Mercy Medica Centre,Unknown,,,2025-12-05,1
+Wood,Jikokoa Pro(MCS),BMK-000-1122,5891,,Outside BPL-Burn Manufacturing,Active,Commercial,Usability,2024-01-10,1
+Wood,Jikokoa Pro(MCS),BMK-000-1124,5589,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-01-10,1
+Wood,Jikokoa Pro(MCS),BMK-000-1126,5575,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-01-10,1
+Wood,Jikokoa Pro(MCS),BMK-000-1123,5944,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-01-10,1
+Wood,Jikokoa Pro(MCS),BMK-000-1121,5917,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-01-10,1
+Wood,Jikokoa Pro(MCS),BMK-000-1127,5865,,Outside BPL-Burn Manufacturing,Active,,Usability,2024-01-11,1
+Wood,KWB3.0,TZM4H9L,11091,,Machakos,Active,,,,1
+Wood,KWB3.0,TZM4F4E,10485,,Machakos,Active,,,,1
+Wood,KWB3.0,TZM4J2K,11095,,Machakos,Active,,,,1
+Wood,KWB3.0,TZM4H9R,10804,,Machakos,Active,,,,1
+Wood,KWB3.0,TZM4L4A,11127,,Machakos,Active,,,,1
+Wood,KWB3.0,TZMJ27,10869,,Machakos,Active,,,,1
+Wood,KWB3.0,NDYHD8,10842,,Machakos,Active,,,,1
+Wood,KWB3.0,TZM4B27,10670,,Machakos,Active,,,,1
+Wood,KWB3.0,TZM269P,11082,,Machakos,Active,,,,1
+Wood,KWB3.0,TZM4H9N,11083,,Machakos,Active,,,,1
+Wood,KWB3.0,ADYSER,10901,,Machakos,Active,,,,1
+Wood,KWB3.0,NDYHVX,11045,,Machakos,Active,,,,1
+Wood,KWB3.0,FDY8XT,11126,,Machakos,Active,,,,1
+Wood,KWB3.0,NDYHEH,11086,,Machakos,Active,,,,1
+Wood,KWB3.0,NDYHDU,11078,,Machakos,Active,,,,1
+Wood,KWB3.0,TZM29TG,10782,,Machakos,Active,,,,1
+Wood,KWB3.0,NDYHDW,10988,,Machakos,Active,,,,1
+Wood,KWB3.0,NDYHD88,10846,,Machakos,Active,,,,1
+Wood,KWB3.0,ADYSDF,10890,,Machakos,Active,,,,1
+Wood,KWB3.0,FDY8GA,11077,,Machakos,Active,,,,1
+Wood,R120,BMK-000-1479,11131,,Kajiado,Active,,,,1
+Wood,R120,BMK-000-1473,11069,,Kajiado,Active,,,,1
+Wood,R120,BMK-000-1472,11074,,Kajiado,Active,,,,1
+Wood,R120,BMK-000-1481,11139,,Kajiado,Active,,,,1
+Wood,R120,BMK-000-1491,10466,,Kajiado,Active,,High Usage,,1
+Wood,R120,BMK-000-1480,10419,,Kajiado,Active,,High Usage,,1
+Wood,R120,BMK-000-1474,11141,,Kajiado,Active,,High Usage,,1
+Wood,R120,BMK-000-1476,11088,,Kajiado,Active,,High Usage,,1
+Wood,R120,BMK-000-1482,10944,,Kajiado,Active,,High Usage,,1
+Wood,R120,BMK-000-1478,1478,,Kajiado,Active,,High Usage,,1
+Wood,R120-14mm PS,BMK-000-1454,10897,,kajiado,Active,,High Usage,,1
+Wood,R120-14mm PS,BMK-000-1453,11080,,kajiado,Active,,High Usage,,1
+Wood,R120-14mm PS,BMK-000-1450,11101,,kajiado,Active,,High Usage,,1
+Wood,R120-14mm PS,BMK-000-1483,10973,,kajiado,Active,,High Usage,,1
+Wood,R120-14mm PS,BMK-000-1489,11090,,kajiado,Active,,High Usage,,1
+Wood,R120-14mm PS,BMK-000-1371,11005,,kajiado,Active,,High Usage,,1
+Wood,R120-14mm PS,BMK-000-1447,11070,,kajiado,Active,,High Usage,,1
+Wood,R120-14mm PS,BMK-000-1455,11130,,kajiado,Active,,High Usage,,1
+Wood,R120-14mm PS,BMK-000-1449,10819,,kajiado,Active,,High Usage,,1
+Wood,R120-14mm PS,BMK-000-1448,10388,,kajiado,Active,,High Usage,,1
+Wood,R105/F130,BMK-000-1446,10971,,Kajiado,Active,,High Usage,,1
+Wood,R105/F130,BMK-000-1445,10881,,Kajiado,Active,,High Usage,,1
+Wood,R105/F130,BMK-000-1441,11089,,Kajiado,Active,,High Usage,,1
+Wood,R105/F130,BMK-000-1444,11076,,Kajiado,Active,,High Usage,,1
+Wood,R105/F130,BMK-000-1443,11107,,Kajiado,Active,,High Usage,,1
+Wood,KWB3.0,TZM375A,11138,,Machakos,Active,,High Usage,,1
+Wood,KWB3.0,TZM34D9,10702,,Machakos,Active,,High Usage,,1
+Wood,KWB3.0,TZM28X9,10749,,Machakos,Active,,High Usage,,1
+Wood,KWB3.0,TZM49KS,10451,,Machakos,Active,,High Usage,,1
+Wood,KWB3.0,TZM356U,10629,,Machakos,Active,,High Usage,,1
+Wood,KWB3.0,TZM4H8T,10548,,Machakos,Active,,High Usage,,1
+Wood,NO SWING DOOR,TZM33CH,10754,,Machakos,Active,,High Usage,,1
+Wood,KWB3.0,TZM4H9V,10891,,Machakos,Active,,High Usage,,1
+Wood,KWB3.0,TZM285L,11015,,Machakos,Active,,High Usage,,1
+Wood,KWB3.0,TMZ24J22,11124,,Machakos,Active,,High Usage,,1
+Wood,R120,BMK-000-1442,11096,,Machakos,Active,,High Usage,,1
+Wood,R120,BMK-000-1457,10784,,Machakos,Active,,High Usage,,1
+Wood,R120,BMK-000-1440,11099,,Machakos,Active,,High Usage,,1
+Wood,R120,BMK-000-1428,11094,,Machakos,Active,,High Usage,,1
+Wood,R120,BMK-000-1431,11140,,Machakos,Active,,High Usage,,1
+Wood,R120,BMK-000-1426,10350,,Gatundu Gichuka,Active,,High Usage,,1
+Wood,R-105,BMK-000-1436,11081,,Gatundu Gichuka,Active,,High Usage,,1
+Wood,R-105,BMK-000-1432,11135,,Gatundu Gichuka,Active,,High Usage,,1
+Wood,R120,BMK-000-1425,11132,,Gatundu Gichuka,Active,,High Usage,,1
+Wood,R-105,BMK-000-1424,11097,,Gatundu Gichuka,Active,,High Usage,,1
+Wood,R120,BMK-000-1433,11073,,Gatundu Gichuka,Active,,High Usage,,1
+Wood,R120,BMK-000-1427,10481,,Gatundu Gichuka,Active,,High Usage,,1
+Wood,R-105,BMK-000-1439,10945,,Gatundu Gichuka,Active,,High Usage,,1
+Wood,R120,BMK-000-1430,10763,,Gatundu Gichuka,Active,,High Usage,,1
+Wood,R-105,BMK-000-1438,11109,,Gatundu Gichuka,Active,,High Usage,,1
+Wood,ECOA WOOD,TZM29HK,10534,,Gatundu Kigaa,Active,,High Usage,,1
+Wood,ECOA WOOD,TZM44T58,10641,,Gatundu Kigaa,Active,,High Usage,,1
+Wood,ECOA WOOD,TZM4F7J,11061,,Gatundu Kigaa,Active,,High Usage,,1
+Wood,ECOA WOOD,TZM49L4,10770,,Gatundu Kigaa,Active,,High Usage,,1
+Wood,ECOA WOOD,TZM49FM,10824,,Gatundu Kigaa,Active,,High Usage,,1
+Wood,ECOA WOOD,TZM2864,10835,,Gatundu Kigaa,Active,,High Usage,,1
+Wood,ECOA WOOD,TZM29JZ,11048,,Gatundu Kigaa,Active,,High Usage,,1
+Wood,ECOA WOOD,TZM49GR,10354,,Gatundu Kigaa,Active,,High Usage,,1
+Wood,ECOA WOOD,TZM33HV,10434,,Gatundu Kigaa,Active,,High Usage,,1
+Wood,ECOA WOOD,TZM269J,10908,,Gatundu Kigaa,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1759,11521,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1773,11876,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1764,11488,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1758,11959,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1771,11625,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1763,11910,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1772,11983,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1774,12065,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1768,11737,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1756,11708,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1760,11941,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1762,11916,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1770,11791,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1766,11662,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,R-120 PP,BMK-000-1757,11946,,Kajiado Kimuka,Active,,High Usage,,1
+Wood,SAHEL,BMK-000-2044,11609,,Gathitha Komothai,Active,,,,1
+Wood,SAHEL,BMK-000-2048,11766,,Gathitha Komothai,Active,,,,1
+Wood,SAHEL,BMK-000-2042,11682,,Gathugu Komothai,Active,,,,1
+Wood,Tall Boy,BMK-000-1935,11658,,Ikutha Kitui,Active,,,2025-02-10,1
+Wood,Tall Boy,BMK-000-1941,11528,,Ikutha Kitui,Active,,,2025-02-10,1
+Wood,Tall Boy,BMK-000-1939,11698,,Ikutha Kitui,Active,,,2025-02-10,1
+Wood,Tall Boy,BMK-000-1940,11913,,Ikutha Kitui,Active,,,2025-02-10,1
+Wood,Tall Boy,BMK-000-1956,11762,,Ikutha Kitui,Active,,,2025-02-10,1
+Wood,Turbo TEG,,5542,,Juja Market-Stall No. 491,Active,Small business,,2024-02-01,1
+Wood,Turbo TEG,,5864,,Juja Market-Stall No. 485,Active,Small business,,2024-02-01,1
+Wood,Turbo TEG,,5346,,Juja,Active,Household,,2024-02-23,1
+Wood,Turbo TEG,,5593,,Juja Gachororo-Mulika Mwizi opposite Kihiko Cereals centre,Active,Small business,,2024-02-01,1
+Wood,Turbo TEG,,1. 05918,,Juja Gachororo-New Vision School near Alcatrez Plaza,Active,Household,,2024-02-01,1
+Wood,Turbo TEG,,5880,,Juja Gachororo-New Vision School near Alcatrez Plaza,Active,Household,,2024-02-01,1
+Wood,Turbo TEG,,5386,,Ruiru-Masaku,Failed,Small business,,2024-02-01,1
+Wood,Turbo TEG,,,,Ruiru-Kihunguro near Deliverance Church,Active,Small business,,2024-02-01,1
+Wood,Turbo TEG,,5595,,Kimbo,Active,Small business,,2024-02-01,1
+Wood,Turbo TEG,,5577,,Toll-near Mama Teresia Medical Centre,Active,Household,,2024-02-05,1
+Wood,Turbo TEG,,1. 05920,,Toll-near Mama Teresia Medical Centre,Active,Household,,2024-02-05,1
+Wood,Turbo TEG,,5949,,Toll-near Mama Teresia Medical Centre,Active,Small business,,2024-02-05,1
+Wood,Turbo TEG,,5936,,Wataalam next to mama shop road,Active,Small business,,2024-02-22,1
+Wood,Turbo TEG,,5869,,Bypass next to pinecrest Academy,Active,Household,,2024-02-08,1
+Wood,Turbo TEG,,5657,,Masaku next to masaku stage,Active,Small business,,2024-02-08,1
+Wood,Turbo TEG,,yes,,Gatundu- kiamuoria,Active,Household,,2024-04-21,1
+Wood,Turbo TEG,,yes,,Gatundu- kiamuoria,Active,Household,,2024-04-21,1
+Wood,Turbo TEG,,yes,,Gatundu- kiamuoria,Active,Household,,2024-04-21,1
+Wood,Turbo TEG,,,,Gatundu- kiamuoria,Active,Household,,2024-04-21,1
+Wood,Turbo TEG,,relocated,,Gatundu- kiamuoria,Active,Household,,2024-04-21,1
+Wood,Turbo TEG,,,,Gatundu- kiamuoria,Active,Household,,2024-04-21,1
+Wood,Turbo TEG,,yes,,Gatundu- kiamuoria,Active,Household,,2024-04-21,1
+Wood,Turbo TEG,,pictures taken,,Gatundu- kiamuoria,Active,Household,,2024-04-21,1
+Wood,Turbo TEG,,stolen,,Gatundu- kiamuoria,Active,Household,,2024-04-21,1
+Wood,Turbo TEG,,unavailable,,Gatundu- kiamuoria,Active,Household,,2024-04-21,1
+Wood,Turbo TEG,,,,Kakamega,Active,Household,,2024-04-25,1
+Wood,Turbo TEG,,,,Kakamega,Active,Household,,2024-04-25,1
+Wood,Turbo TEG,,,,Kakamega,Active,Household,,2024-04-25,1
+Wood,Turbo TEG,,,,Kakamega,Active,Household,,2024-04-25,1
+Wood,Turbo TEG,,,,Kakamega,Active,Household,,2024-04-25,1
+Wood,Turbo TEG,,,,Kakamega,Active,Household,,2024-04-25,1
+Wood,Tall Boy,,11606,,Kigumo Komothai,Active,,,2024-11-20,1
+Wood,Tall Boy,,11779,,Gathitha Komothai,Active,,,2024-11-20,1
+Wood,Tall Boy,,12109,,Gathitha Komothai,Active,,userbility,2024-11-20,1
+Wood,Tall Boy,,11624,,Gathitha Komothai,Active,,userbility,2024-11-20,1
+Wood,Tall Boy,,11494,,Gathugu Komothai,Active,,userbility,2024-11-20,1
+Wood,Tall Boy,,11859,,Kigumo Komothai,Active,,userbility,2024-11-20,1
+Wood,Tall Boy,,11747,,Kigumo Komothai,Active,,userbility,2024-11-20,1
+Wood,Tall Boy,,11577,,Gathugu Komothai,Active,,userbility,2024-11-20,1
+Wood,Tall Boy,,,,Ikutha Kitui,Active,,userbility,2025-02-10,1
+Wood,Turbo TEG,,,,Kimuka Ngong,Unknown,,,2024-03-27,1
+Wood,Turbo TEG,,,,Gatundu- kiamuoria,Unknown,,,2024-04-21,1
+Wood,Hig Usage stove,,,,Gatundu- Gichuka,Unknown,,,2024-07-29,1
+Wood,Hig Usage stove,,,,Gatundu- Gichuka,Unknown,,,2024-07-29,1
+Wood,Hig Usage stove,,,,Gatundu- Gichuka,Unknown,,,2024-07-29,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1842,,,Baringo,Unknown,,,2024-11-23,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1843,,,Baringo,Unknown,,,2024-11-23,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1845,,,Baringo,Unknown,,,2024-11-23,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1849,,,Baringo,Unknown,,,2024-11-23,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1856,,,Baringo,Unknown,,,2024-11-23,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1861,,,Baringo,Unknown,,,2024-11-23,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1863,,,Baringo,Unknown,,,2024-11-23,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1835,,,Baringo,Unknown,,,2024-11-24,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1837,,,Baringo,Unknown,,,2024-11-24,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1838,,,Baringo,Unknown,,,2024-11-24,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1839,,,Baringo,Unknown,,,2024-11-24,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1844,,,Baringo,Unknown,,,2024-11-24,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1852,,,Baringo,Unknown,,,2024-11-24,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1858,,,Baringo,Unknown,,,2024-11-24,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,BMK-000-1862,,,Baringo,Unknown,,,2024-11-24,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,,,,Baringo,Unknown,,,2024-11-24,1
+Wood,Ergo 690 Bauchi; Tall Boy Rev B,,,,Baringo,Unknown,,,2024-11-24,1
+LPG,Ecoa-SS201 Hairline,,,,Thika-Muthaiga police post- kiganjo(Thika off Garissa Rd),Unknown,,,,1
+LPG,Ecoa LPG,BMK-000-1112,,,Mwihoko-Nebes road - Hiram hardware,Unknown,,Durability,2023-08-04,1
+LPG,Ecoa LPG,BMK-000-1114,,,Ruiru -Next to Twins church,Unknown,,Durability,2023-08-04,2
+LPG,Ecoa LPG,BMK-000-1110,,,Ruiru- Next to Githunguri Secondary,Unknown,,Durability,2023-08-04,1
+LPG,Ecoa LPG,BMK-000-1115,,,Ruiru- Next to ACK wataalam,Unknown,,,2023-08-04,1
+LPG,Ecoa LPG,BMK-000-1111,,,Mwihoko -Next to Muthaiga court,Unknown,,,2023-08-04,1
+LPG,Ecoa LPG,BMK-000-1113,Sensor Serial No,,Mwihoko -Next to Estrac academy,Unknown,,,2023-08-04,2
+LPG,Ecoa LPG,KE-GA-014-EC,,,Gikambura,Unknown,,,2024-06-21,2
+LPG,Ecoa LPG,KE-GA-013-EC,,,Githurai,Unknown,,,2024-06-21,1
+LPG,Ecoa LPG,KE-GA-022-EC,,,Gitaru,Unknown,,,2024-06-21,2
+LPG,Ecoa LPG,KE-GA-020-EC,,,Gikambura,Unknown,,,2024-06-21,2
+LPG,Ecoa LPG,KE-GA-026-EC,,,Kimbo Near Bishop Kajanja Academy,Unknown,,,2024-06-21,1
+LPG,Ecoa LPG,KE-GA-025-EC,,,Kimbo near Jamila House,Unknown,,,2024-06-21,1
+LPG,Ecoa LPG,KE-GA-024-EC,,,Kimbo,Unknown,,,2024-06-21,1
+LPG,Ecoa LPG,KE-GA-028-EC,,,Gikambura,Unknown,,,2024-06-21,2
+LPG,Ecoa LPG,KE-GA-030-EC,,,Gikambura,Unknown,,,2024-06-21,2
+LPG,Ecoa LPG,KE-GA-015-EC,,,Kamakis crapick Apartment,Unknown,,,2024-06-21,2
+LPG,Ecoa LPG,KE-GA-029-EC,,,Gikambura,Unknown,,,2024-06-21,2
+LPG,Ecoa LPG,KE-GA-018-EC,,,Githurai- near Githurai Mosque,Unknown,,,2024-06-21,1
+LPG,Ecoa LPG,KE-GA-027-EC,,,Kamakis-Behind Wesco gas Station,Unknown,,,2024-06-21,1
+LPG,Ecoa LPG,KE-GA-032-EC,,,Gikambura,Unknown,,,2024-06-21,2
+LPG,Ecoa LPG,KE-GA-031-EC,,,Githurai,Unknown,,,2024-06-21,1
+LPG,Ecoa LPG,KE-GA-023-EC,,,Githurai,Unknown,,,2024-06-21,1
+LPG,Ecoa LPG,KE-GA-021-EC,,,Githurai next to Eden restaurant,Unknown,,,2024-06-21,1
+LPG,Ecoa LPG,KE-GA-019-EC,,,Githurai,Unknown,,,2024-06-21,1
+LPG,Ecoa LPG,KE-GA-016-EC,,,Kimbo,Unknown,,,2024-06-21,1
+LPG,Ecoa LPG,KE-GA-017-EC,,,Kamakis,Unknown,,,2024-06-21,1
+LPG,Ecoa LPG,BMK-000-1194,,,Kihunguro next to deliverance church,p,,,2024-01-24,1
+LPG,Ecoa LPG,BMK-000-1462,Sensor Serial No,,Kihunguro next to deliverance church,Unknown,,,2025-05-15,1
+LPG,Ecoa LPG,BMK-000-1461,,,Mwihoko -Next to Estrac academy,Unknown,,,2025-05-30,1
+LPG,Ecoa LPG,,,,Utawala,Unknown,,,,1
+LPG,Ecoa LPG,,,,Ruiru,Unknown,,,,1
+LPG,Ecoa LPG,PC09-3/2026,29913,,Kimbo near mona park,Unknown,House hold,,,1
+LPG,Ecoa LPG,PC010-3/2026,29914,,Kimbo-Pride butchery kwa chief,Unknown,House hold,,,1
+LPG,Ecoa LPG,PC05-3/2026,29916,,Kimbo/Toll,Unknown,House hold,,,1
+LPG,Ecoa LPG,PC01-3/2026,29921,,Kimbo-Pride butchery kwa chief,Unknown,House hold,,,1
+LPG,Ecoa LPG,PC04-3/2026,29917,,Kimbo-Pride butchery kwa chief,Unknown,House hold,,,1
+LPG,Ecoa LPG,PC02-3/2026,29931,,Kimbo-Near Pride butchery kwa chief,Unknown,House hold,,,1
+LPG,Ecoa LPG,PC07-3/2026,29920,,Kimbo-Near kwa chief opp Dorkami Appartment,Unknown,House hold,,,1
+LPG,Ecoa LPG,PC03-3/2026,29926,,Kimbo near kwa chief opp Dorkami Appartment,8,House hold,,,1
+LPG,Ecoa LPG,,,,Rainbow,Unknown,,,2024-11-04,1
+LPG,Ecoa LPG,,,,Rainbow,Unknown,,,2024-11-04,1
+LPG,Ecoa LPG,,,,Rainbow,Unknown,,,2024-11-04,1
+LPG,Ecoa LPG,,,,Rainbow,Unknown,,,2024-11-04,1
+LPG,Ecoa LPG,,,,Rainbow,Unknown,,,2024-11-04,1
+LPG,Ecoa LPG,,,,Rainbow,Unknown,,,2024-11-04,1
+LPG,Ecoa LPG,,,,Rainbow,Unknown,,,2024-11-04,1
+LPG,Ecoa LPG,,,,Rainbow,Unknown,,,2024-11-04,1
+LPG,Ecoa LPG,,,,Ruiru,Unknown,,,2024-11-04,1
+LPG,Ecoa LPG,,,,Rainbow,Unknown,,,2024-11-04,1
+LPG,Ecoa LPG,,29930,,Kimbo,Unknown,,,2026-03-12,1
+LPG,Ecoa LPG,PC06-3/2026,,,Toll,Unknown,,,,1
+Electric,IDC G2,603500109,,,Utawala Githunguri,Active,,,2024-08-16,1
+Electric,IDC G2,603501428,,,Utawala Lexo (Benedicta),Active,,,2024-08-16,1
+Electric,IDC G2,603501821,,,Utawala Lexo (Benedicta),Active,,,2024-08-16,1
+Electric,IDC G2,603501942,,,Utawala Githunguri,Active,,,2024-08-16,1
+Electric,IDC G2,603500517,,,Utawala Lexo (Benedicta),Active,,,2024-08-16,1
+Electric,IDC G1 & G2,603501300,,,,Active,,,2024-08-16,1
+Electric,IDC G1 & G2,603500486,,,,Active,,,2024-08-16,1
+Electric,IDC G1 & G2,,,,,Active,,,2024-08-16,1
+Electric,IDC G1 & G2,,,,,Active,,,2024-08-16,1
+Electric,IDC G1 & G2,,,,,Active,,,2024-08-16,1
+Institutional,Pro 200,,,Don Bosco Technical Institute,"Langata Rd, Karen; Nairobi",Active,Institutional,Usability & Durability,2023-10-12,1
+Institutional,Pro 200,,,Chomo Boys Secondary School,Chomo; Muranga,Unknown,Institutional,Usability & Durability,2023-11-22,1
+Institutional,Pro 200,,,Shadrack Kimalel Primary School,Mbagathi Rd; Nairobi,Inactive,Institutional,Usability & Durability,2023-11-22,1
+Institutional,Pro 200,,,Eldama Latap Academy,"Lenana, Ngong Rd; Nairobi",Active,Institutional,Usability & Durability,2023-11-22,1
+Institutional,Pro 200,,,Kibera and Mukuru gwa Njenga,Waumini radio station (Alfajiri street kids),Active,Institutional,Flooding releif Donation,2024-05-07,1
+Institutional,Pro 200,,,Kibera and Mukuru gwa Njenga,Waumini radio station (Alfajiri street kids),Active,Institutional,Flooding releif Donation,2024-05-07,1
+Institutional,Pro 200,,,Kibera and Mukuru gwa Njenga,Mathare 4A,Active,Institutional,Flooding releif Donation,2024-05-07,1
+Institutional,Pro 200,,,Kibera and Mukuru gwa Njenga,Mathare social justice,Active,Institutional,Flooding releif Donation,2024-05-07,1
+Institutional,Pro 200,,,Kibera and Mukuru gwa Njenga,Mukuru wa njenga near Thames electricals (Industrial area),Active,Institutional,Flooding releif Donation,2024-05-07,1
+Institutional,Pro 200,,,Kibera and Mukuru gwa Njenga,Mukuru wa njenga near Thames electricals (Industrial area),Unknown,Institutional,Flooding releif Donation,2024-05-07,1
+Institutional,Pro 200,,,Sunrise Royal Academy Primary School,Karai; Kimabu,Active,Institutional,Usability & Durability,2024-07-10,1
+Institutional,Pro 200,,,Giathieko Primary School,Githunguri; Kiambu,Active,Institutional,Usability & Durability,2024-07-10,1
+Institutional,Pro 200,,,Wanjo Academy Primary,Githunguri; Kiamabu,Active,Institutional,KPT & Durability,2024-07-10,1
+Institutional,Pro 200,,,Ndireti Secondary School,Githunguri; Kiamabu,Active,Institutional,Usability & Durability,2024-07-10,1
+Institutional,Pro 60,,,Ongata Rongai Chapel School,Ongata Rongai; Kajiado,Active,Institutional,KPTs & Durability,2024-08-28,1
+Institutional,Pro 100,,,Ongata Rongai Chapel School,Ongata Rongai; Kajiado,Active,Institutional,KPTs & Durability,2024-08-28,1
+Institutional,Pro 200,,,Joram G.M Secondary School,"Matasia; Ngong Town, Kajiado",Active,Institutional,Durability Placement,2024-08-28,1
+Institutional,Pro 100,,,Huruma Childrens Home Centre,"Matasia; Ngong Town, Kajiado",Active,Institutional,Durability Placement,2024-08-28,1
+Institutional,Pro 200,,,Huruma Childrens Home Centre,"Matasia; Ngong Town, Kajiado",Active,Institutional,Durability Placement,2024-08-28,1
+Institutional,Pro 100,,,Ngong Hills Secondary School,Ngong Town; Kajiado,Active,Institutional,Durability Placement,2024-08-28,1
+Institutional,Pro 60,,,St Augustine Secondary School,Gikure; Muranga,Active,Institutional,Durability Placement,2024-08-28,1
+Institutional,Pro 100,,,St Augustine Secondary School,Gikure; Muranga,Active,Institutional,Durability Placement,2024-08-28,1
+Institutional,Pro 200,,,St Augustine Secondary School,Gikure; Muranga,Active,Institutional,Durability Placement,2024-08-28,1
+Institutional,Pro 60,,,Mabanda primary school,Gatanga Central; Muranga,Active,Institutional,KPTs & Durability,2024-08-28,1
+Institutional,Pro 100,,,Mabanda primary school,Gatanga Central; Muranga,Active,Institutional,KPTs & Durability,2024-08-28,1
+Institutional,Pro 200,,,Mabanda primary school,Gatanga Central; Muranga,Active,Institutional,KPTs & Durability,2024-08-28,1
+Institutional,Pro 60,,,Gituamba Secondary School,Muranga; Gituamba,Active,Institutional,Durability Placement,2024-08-28,1
+Institutional,Pro 60,,,Gatanga Primary School,Muranga; Gatanga,Active,Institutional,KPTs & Durability,2024-08-28,1
+Institutional,Pro 100,,,Gatanga Primary School,Muranga; Gatanga,Active,Institutional,KPTs & Durability,2024-08-28,1
+Institutional,Pro 200,,,Gatanga Primary School,Muranga; Gatanga,Active,Institutional,KPTs & Durability,2024-08-28,1
+Institutional,Turbo 200,,,Spring of Life school,Mlologo; Machakos; Nairobi,Active,Institutional,KPTs & Durability,2024-10-09,1
+Institutional,Pro 200,,11246,Kajiado Township primary school,Ongata Rongai North; Kajiado,Active,Institutional,KPTs & Durability,2024-09-13,1
+Institutional,Turbo 400,,10459,Kajiado Township primary school,Ongata Rongai North; Kajiado,Active,Institutional,KPTs & Durability,2024-09-13,1
+Institutional,Turbo 200,,,Karai Childrens vocational centre,"Kamangu, Kiambu",Active,Institutional,KPTs & Durability,2024-10-12,1
+Institutional,Pro 60,,11223,Kumpa Holy Mothers Primary,Marble Quarry; Kajiado,Active,Institutional,KPTs & Durability,2024-09-13,1
+Institutional,Pro 100,,10344,Kumpa Holy Mothers Primary,Marble Quarry; Kajiado,Active,Institutional,KPTs & Durability,2024-09-13,1
+Institutional,Pro 60,,11066,Isinya Primary School,Namanga Rd.; Kajiado,Active,Institutional,KPTs & Durability,2024-09-13,1
+Institutional,Pro 100,,11453,Isinya Primary School,Namanga Rd.; Kajiado,Active,Institutional,KPTs & Durability,2024-09-13,1
+Institutional,Pro 60,,5929,St. Anthony's Girls & Boys Secondary School,Nairagie Enkare; Kajiado,Active,Institutional,Usability & Durability,2025-01-30,1
+Institutional,Pro 100,,10794,St. Anthony's Girls & Boys Secondary School,Nairagie Enkare; Kajiado,Active,Institutional,Usability & Durability,2025-01-30,1
+Institutional,Pro 200,,,St. Anthony's Girls & Boys Secondary School,Nairagie Enkare; Kajiado,Active,Institutional,Usability & Durability,2025-01-30,1
+Institutional,Pro 60,,11055,Nyama Point Butchery & Hotel,Syokimau Airport Rd; Machakos,Active,Institutional,Usability & Durability,2025-01-17,1
+Institutional,60L LPG,,,Flexi Biogas International Limited,Karen; Nairobi,Inactive,Institutional,KPTs,2024-10-12,1
+Institutional,Pro 200,,,Mathare Social Justice,Not recorded,Active,,,2024-05-07,1
+Institutional,Pro 200,,,Vision Bearers,Not recorded,Active,,,,1
+Institutional,Pro 200,,,Alfajiri,Not recorded,Active,,,,1
+Institutional,Pro 200,,,Mathare roadside Kitchen,Not recorded,Active,,,,1
+Institutional,Pro 100,,,Huruma Chi,Not recorded,Active,,,,1
+Institutional,Pro 60,,,Mwangaza Light,"Kitengela,Kenya",Active,,,2023-10-12,1
+Institutional,Pro 200,,,ED Partners,"Embu,Kenya",Unknown,,,,1
+Institutional,Pro400,,,Food For Education(FOE),"Embu,Kenya",Unknown,,,2023-11-22,1
+Institutional,pro 80,,,Shadow of Charity,"Eastleigh,Nairobi",Unknown,,,,1
+Institutional,Pro 60,,,CIPAD,"Wajir,Kenya",Unknown,,,,1
+Institutional,ProAir200,,,Gamos EA,"Chepalungu,Bomet",Active,,,2023-11-22,1
+Institutional,Instove Pro Series 60 Liter ( Natural Draftt; Long Life ),,,,Ongata Rongai Chapel; Rongai,Unknown,,,,1
+Cookware,Competitor 17L,,,,Kikuyu,Placed,Commercial competitor,Competitor benchmark,,1
+Cookware,Ecoa & FP 4L,,,,Eastern Bypass,Placed,MR Domestic,MR cookware placement,2024-07-01,1
+Cookware,Ecoa & FP 4L,,,,"Hunters, Kasarani",Placed,MR Domestic,MR cookware placement,2024-07-01,1
+Cookware,Ecoa & FP 4L,,,,Eastern Bypass,Placed,MR Domestic,MR cookware placement,2024-07-01,1
+Cookware,Ecoa & FP 4L,,,,Eastern Bypass,Placed,MR Domestic,MR cookware placement,2024-07-01,1
+Cookware,Ecoa & FP 4L,,,,Eastern Bypass,Placed,MR Domestic,MR cookware placement,2024-07-03,1
+Cookware,Not recorded,,,,,Placed,MR Domestic,MR cookware placement,2024-07-03,1
+Cookware,Ecoa & FP 4L,,,,River side- Alsops,Placed,MR Domestic,MR cookware placement,2024-07-03,1
+Cookware,Ecoa & FP 4L,,,,Mwihoko,Placed,MR Domestic,MR cookware placement,2024-07-03,1
+Cookware,Ecoa & FP 6L,,,,Mwihoko,Placed,MR Domestic,MR cookware placement,2024-07-03,1
+Cookware,"Ecoa, Vicook & FP 4L",,,,Utawala,Placed,MR Domestic,MR cookware placement,2024-07-05,1
+Cookware,Ecoa & FP 4L,,,,Utawala,Placed,MR Domestic,MR cookware placement,2024-07-05,1
+Cookware,Ecoa & FP 4L,,,,Lower Kabete,Placed,MR Domestic,MR cookware placement,2024-07-05,1
+Cookware,Ecoa & FP 4L,,,,Kasarani,Placed,Commercial,MR cookware placement,2024-08-15,1
+Cookware,Competitor 10L,,,,Kahawa Wendani,Placed,Commercial competitor,Competitor benchmark,2024-10-24,1
+Cookware,Competitor 9L,,,,Kahawa Wendani,Placed,Commercial competitor,Competitor benchmark,2024-10-24,1
+Cookware,Competitor 14L,,,,Kitengela/ OTC,Placed,Commercial competitor,Competitor benchmark,2024-10-24,1
+Cookware,Competitor 14L,,,,Ruiru,Placed,Commercial competitor,Competitor benchmark,2024-10-24,1
+Cookware,Competitor 17L,,,,KU Model,Placed,Commercial competitor,Competitor benchmark,2024-10-24,1
+Cookware,Competitor 10L,,,,Kitengela,Placed,Commercial competitor,Competitor benchmark,2024-10-24,1
+Cookware,Competitor 9L,,,,"Big box Utawala, Shooters",Placed,Commercial competitor,Competitor benchmark,2024-10-24,1
+Cookware,Competitor 6L,,,,Eastern bypass,Placed,Domestic competitor,Competitor benchmark,2024-10-25,1
+Cookware,Competitor Pan 6L,,,,Eastern bypass,Placed,Domestic competitor,Competitor benchmark,2024-10-25,1
+Cookware,Competitor pan 4L,,,,River side,Placed,Domestic competitor,Competitor benchmark,2024-10-25,1
+Cookware,Competitor 4L,,,,Utawala,Placed,Domestic competitor,Competitor benchmark,2024-10-25,1
+Cookware,Competitor Pan 6L,,,,Progressive - Githu 45,Placed,Domestic competitor,Competitor benchmark,2024-10-25,1
+Cookware,Competitor 4L,,,,Progressive - Githu 45,Placed,Domestic competitor,Competitor benchmark,2024-10-25,1
+Cookware,Competitor 5L,,,,Zimmerman Carwash,Placed,Domestic competitor,Competitor benchmark,2024-10-25,1
+Cookware,Competitor 6L,,,,Mwihoko,Placed,Domestic competitor,Competitor benchmark,2024-10-25,1
+Cookware,Competitor 4L,,,,Mwihoko,Placed,Domestic competitor,Competitor benchmark,2024-10-25,1
+Cookware,Competitor 2L,,,,Njiru-slaughter,Placed,Domestic competitor,Competitor benchmark,2024-10-25,1
+Cookware,Competitor 2L,,,,Eastern Bypass,Placed,Domestic competitor,Competitor benchmark,2024-10-25,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 2 — PAN MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 1 — PAN MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 2 — POT MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 2 — PAN MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 2 — POT MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 1 — PAN MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 1 — PAN MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 2 — POT MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 2 — PAN MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 2 — PAN MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 2 — PAN MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 2 — PAN MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 2 — POT MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 2 — PAN MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 2 — POT MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 2 — PAN MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 2 — POT MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 2 — PAN MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 2 — POT MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 1 — PAN MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 2 — POT MATERIAL: 0.2mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 1 — PAN MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Frying pan,,,,,Placed,Group 1 — PAN MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot,,,,,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser durability (Aug 2026),2026-08-13,1
+Cookware,Ecoa Pot 4L,,,,Ruiru Mama shop-Household user,Placed,,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 6L,,,,"Kimbo-matangi,Household",Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 4L,,,,,Placed,,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 4L,,,,Ruiru outside RPB -Commercial user,Placed,,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 6L,,,,Ruiru outside RPB -Commercial user,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 4L,,,,Ruiru outside RPB -Commercial user,Placed,,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 6L,,,,Commercial-Kimbo stage,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 6L,,,,Commercial-Kimbo stage,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 6L,,,,Commercial user-Kimbo stage opposite GSU Camp,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 6L,,,,Commercial-Kimbo stage,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 4L,,,,Ruiru oj -Household user,Placed,,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 4L,,,,Kimbo near kwa chief,Placed,,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 6L,,,,Kimbo-Household,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 6L,,,,Commercial user-Kimbo stage opposite GSU Camp,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 4L,,,,Kimbo stage opposite GSU Camp,Placed,,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 4L,,,,Kimbo near kwa chie-Household user,Placed,,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 6L,,,,Kimbo one 4-Household user,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 4L,,,,Kimbo one 4-Household user,Placed,,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 6L,,,,Commercial user-Kimbo stage opposite GSU Camp,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 4L,,,,Kimbo stage opposite GSU Camp,Placed,,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 4L,,,,Kimbo one 4-Household user,Placed,,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 6L,,,,Matangi-Household,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 6L,,,,Ruiru Mama shop-Household user,Placed,Group 1 — POT MATERIAL: 0.4mm Al,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa Pot 4L,,,,Ruiru Mama shop-Household user,Placed,,CRCA diffuser 6L & 4L (Nov 2026),2026-11-04,1
+Cookware,Ecoa & FP 6L,,,,,Unknown,Commercial,MR cookware placement,,1
+Cookware,"Sunglory, pot 6L",,,,,Unknown,MR Domestic,MR cookware placement,,1
+Cookware,Ecoa & FP 6L,,,,,Unknown,Burn employee,MR cookware placement,,1
+Cookware,Ecoa & FP 6L,,,,,Unknown,Burn employee,MR cookware placement,,1
+Cookware,Ecoa & FP 6L,,,,,Unknown,Burn employee,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
+Cookware,Not recorded,,,,,To be placed,MR Domestic,MR cookware placement,,1
